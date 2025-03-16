@@ -3,7 +3,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Thêm đơn thuốc mới</h4>
+                <h4 class="modal-title">Thêm đơn thuốc mới 1</h4>
             </div>
             <div class="modal-body">
                 <!-- Nội dung chính -->
